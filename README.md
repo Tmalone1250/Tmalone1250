@@ -16,10 +16,9 @@ Here are a few projects that showcase my full-stack, AI, and blockchain expertis
 
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
-| **Leno AI** | Python, FastAPI, React, Google ADK | A modular, multi-agent framework architected for real-world task orchestration and extensible system integration (OpenAI, Google APIs). **(Open Source Project Lead)**
-https://github.com/Tmalone1250/lenoai|
-| **Aetherium RPG** | Solidity, Web3.js, React, TypeScript | A Final Fantasy-style RPG featuring **Web3 economic integration**, including blockchain asset ownership, NFTs, ERC-20 tokens, and a decentralized rewards system. |
-| **Auto-Yield DeFi Vault** | Solidity, Chainlink, Uniswap V2, React | A dApp automating stablecoin yield farming on the Ethereum Sepolia Testnet, using **Chainlink feeds for automated profit/stop-loss actions**. |
+| **Leno AI** | Python, FastAPI, React, Google ADK | A modular, multi-agent framework architected for real-world task orchestration and extensible system integration (OpenAI, Google APIs). **(Open Source Project Lead)** https://github.com/Tmalone1250/lenoai |
+| **Aetherium RPG** | Solidity, Web3.js, React, TypeScript | A Final Fantasy-style RPG featuring **Web3 economic integration**, including blockchain asset ownership, NFTs, ERC-20 tokens, and a decentralized rewards system. https://github.com/Tmalone1250/web3-rpg |
+| **Auto-Yield DeFi Vault** | Solidity, Chainlink, Uniswap V2, React | A dApp automating stablecoin yield farming on the Ethereum Sepolia Testnet, using **Chainlink feeds for automated profit/stop-loss actions**. https://github.com/Tmalone1250/auto-yield-dash |
 
 ---
 
