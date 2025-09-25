@@ -1,6 +1,6 @@
 # Hi, I'm Trevor Malone 👋
 
-### AI & Blockchain Developer | Open Source Project Lead
+### AI & Blockchain Developer
 
 I’m a passionate technologist focused on building **innovative, decentralized solutions** at the intersection of Artificial Intelligence and Web3.
 
@@ -16,7 +16,8 @@ Here are a few projects that showcase my full-stack, AI, and blockchain expertis
 
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
-| **Leno AI** | Python, FastAPI, React, Google ADK | A modular, multi-agent framework architected for real-world task orchestration and extensible system integration (OpenAI, Google APIs). **(Open Source Project Lead)** |
+| **Leno AI** | Python, FastAPI, React, Google ADK | A modular, multi-agent framework architected for real-world task orchestration and extensible system integration (OpenAI, Google APIs). **(Open Source Project Lead)**
+https://github.com/Tmalone1250/lenoai|
 | **Aetherium RPG** | Solidity, Web3.js, React, TypeScript | A Final Fantasy-style RPG featuring **Web3 economic integration**, including blockchain asset ownership, NFTs, ERC-20 tokens, and a decentralized rewards system. |
 | **Auto-Yield DeFi Vault** | Solidity, Chainlink, Uniswap V2, React | A dApp automating stablecoin yield farming on the Ethereum Sepolia Testnet, using **Chainlink feeds for automated profit/stop-loss actions**. |
 
@@ -38,5 +39,5 @@ I’m eager to apply my skills to impactful projects.
 - **Email:** malonetrevor12@gmail.com
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Tmalone1250&label=Profile%20views&color=0e75b6&style=flat" alt="GitHub Profile Views" />
 </p>
