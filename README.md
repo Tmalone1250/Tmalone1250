@@ -16,7 +16,7 @@ Here are a few projects that showcase my full-stack, AI, and blockchain expertis
 
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
-| **Alchemy Guild** | Solidity, React, ethers.js, TailwindCSS | A DeFi yield generation platform that combines NFT staking with automated Uniswap V3 liquidity provision **(Project Lead)** https://github.com/Tmalone1250/alchemy-vault |
+| **Alchemy Guild** | Solidity, React, Uniswap V3, TailwindCSS | A DeFi yield generation platform that combines NFT staking with automated Uniswap V3 liquidity provision **(Project Lead)** https://github.com/Tmalone1250/alchemy-vault |
 | **Leno AI** | Python, FastAPI, React, Google ADK | A modular, multi-agent framework architected for real-world task orchestration and extensible system integration (OpenAI, Google APIs). **(Open Source Project Lead)** https://github.com/Tmalone1250/lenoai |
 | **Auto-Yield DeFi Vault** | Solidity, Chainlink, Uniswap V2, React | A dApp automating stablecoin yield farming on the Ethereum Sepolia Testnet, using **Chainlink feeds for automated profit/stop-loss actions**. https://github.com/Tmalone1250/auto-yield-dash |
 
